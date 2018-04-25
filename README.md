@@ -1,2 +1,1 @@
-# meteorTemplate
-Onepage template
+# Meteor onepage template
