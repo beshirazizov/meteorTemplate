@@ -1,1 +1,1 @@
-# Meteor onepage template
+# Meteor onepage unresponsive template
